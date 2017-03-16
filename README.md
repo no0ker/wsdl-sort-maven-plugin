@@ -1,3 +1,3 @@
 # wsdl-sort-maven-plugin
 
-a little maven plugin for sort a chaotic wsdl-file.
+little maven plugin for sort any chaotic wsdl-file.
